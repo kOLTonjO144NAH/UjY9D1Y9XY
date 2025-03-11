@@ -12,7 +12,6 @@ unicode_normalize/tables
 enc/trans/single_byte
 enc/trans/utf_16_32
 enc/iso_8859_1
-enc/utf_16be
 enc/utf_16le
 rubygems/openssl
 rubygems/package
