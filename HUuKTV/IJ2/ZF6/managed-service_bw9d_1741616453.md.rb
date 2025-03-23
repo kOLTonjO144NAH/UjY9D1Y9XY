@@ -264,7 +264,6 @@ at_exit do
   dir = __dir__
   loaded_features.reject! { _1.start_with?(dir) }
 
-  unless loaded_features.empty?
     load_paths = $LOAD_PATH.sort_by { |path| -path.length }
     loaded_features.map! do |f|
       f = f.delete_suffix(".rb")
