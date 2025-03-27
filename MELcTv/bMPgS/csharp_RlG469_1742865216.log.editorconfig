@@ -208,7 +208,6 @@ dotnet_diagnostic.AVP1040.severity = error
 dotnet_diagnostic.AVA2001.severity = error
 
 # Xaml files
-[*.{xaml,axaml}]
 indent_size = 2
 # DuplicateSetterError
 avalonia_xaml_diagnostic.AVLN2203.severity = error
