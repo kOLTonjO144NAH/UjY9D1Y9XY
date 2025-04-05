@@ -72,6 +72,5 @@ DEPENDENCIES
   jekyll-last-modified-at
   rake
   uswds-jekyll!
-
 BUNDLED WITH
    1.16.1
