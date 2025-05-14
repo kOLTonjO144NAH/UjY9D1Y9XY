@@ -34,7 +34,6 @@ The contributors push changes to their personal fork and create a pull request t
 - If not executed `pnpm prepare`, you should execute it
 
 4. Run `pnpm dev` to start the development server
-
 - This server will check the compilation and type checking errors
 
 5. Before pushing your changes, run pnpm test for each package (if applicable) and pnpm lint to check code quality.
