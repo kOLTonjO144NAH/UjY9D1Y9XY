@@ -85,7 +85,6 @@ redmine_token =
 
 ```
 rudder-dev --help
-```
 
 For more information.
 
